@@ -1,12 +1,12 @@
 {
   "crypto":[
-  ["Bitcoin","40100"],
-  ["Ethereum","1950"],
-  ["Tether","20"],
-  ["BNB","4010"],
+  ["Bitcoin","40140"],
+  ["Ethereum","1990"],
+  ["Tether","5"],
+  ["BNB","4015"],
   ["XRP","619"],
-  ["Meta Coin","50"],
-  ["Dogecoin","7360"],
-  ["Cardano","1000"]
+  ["Meta Coin","150"],
+  ["Dogecoin","7200"],
+  ["Cardano","995"]
   ]
 }
